@@ -1,0 +1,88 @@
+*{
+margin:0;
+}
+.last{
+    display: flex
+}
+.write{
+    margin-top: 50px;
+    margin-left: 60px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+.butt{
+    width: 150px;
+    height: 30px;
+}
+.foot-write{
+    color: rgb(165, 161, 161);
+    text-align: center;
+    height: 130px;
+    margin-left:10px;
+    font-size: 20px;
+
+}
+.fst{
+  font-size: 20px;
+  color: rgb(236, 226, 226);
+    text-align: center;
+    margin-left: 10px;
+}
+.lists{
+background-color: black;
+color: aliceblue;
+height: 100px;
+width: 100%;
+font-size: 13px;
+margin-top: -17px;
+}
+.paper{
+    margin-top: -12px;
+    height: 80px;
+    background-color: black;
+}
+.image1{
+   margin-left: 50px;
+    height: 29px;
+    
+}
+
+ul{
+    
+    list-style-type: none;
+    width: 500px;
+    padding-left: 0%;
+    
+}
+ul li{
+    display: inline-block;
+}
+.menu{
+    display: flex;
+    justify-content:right ;
+    width: 500px;
+    height: 50px;
+    padding-left: 20px;
+}
+.line1{
+    margin-top: 40px;
+}
+.trd{
+   width: 100%;
+   height: 40px;
+   color: white;
+   background-color: black;
+   text-align: center;
+
+}
+.item{
+    color: rgb(241, 243, 244);
+    float: left;
+    padding: 15px;
+    display: flex;
+}
+.user{
+    color: rgb(177, 24, 24);
+    margin-left: 370px;
+    
+}
